@@ -6,7 +6,7 @@ cloudinary
 datasets
 emoji==1.7
 Flask==2.3.2
-Flask-Cors==3.0.10
+Flask-Cors==6.0.0
 flex==6.14.1
 fuzzywuzzy==0.18.0
 ipython==8.12.0
@@ -46,3 +46,5 @@ tqdm~=4.65.0
 types-requests==0.1.13
 typing-inspect==0.8.0
 typing_extensions==4.5.0
+protobuf>=4.25.8 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability

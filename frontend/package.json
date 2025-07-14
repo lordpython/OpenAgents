@@ -37,7 +37,7 @@
     "codemirror": "^6.0.1",
     "echarts": "^5.4.2",
     "eventsource-parser": "^0.1.0",
-    "handsontable": "^12.3.3",
+    "handsontable": "^15.0.0",
     "i18next": "^22.4.13",
     "lodash": "^4.17.21",
     "material-react-table": "^1.11.3",

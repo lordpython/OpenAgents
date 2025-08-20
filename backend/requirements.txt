@@ -6,7 +6,7 @@ cloudinary
 datasets
 emoji==1.7
 Flask==2.3.2
-Flask-Cors==3.0.10
+Flask-Cors==6.0.0
 flex==6.14.1
 fuzzywuzzy==0.18.0
 ipython==8.12.0

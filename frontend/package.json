@@ -69,8 +69,8 @@
     "remark-math": "^5.1.1",
     "unified": "^10.1.2",
     "uuid": "^9.0.0",
-    "vega": "^5.25.0",
-    "vega-lite": "^5.9.0"
+    "vega": "^6.2.0",
+    "vega-lite": "^6.4.0"
   },
   "devDependencies": {
     "@mozilla/readability": "^0.4.4",
